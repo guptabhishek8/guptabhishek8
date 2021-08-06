@@ -1,6 +1,6 @@
-[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png
-)]
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png
+)
+<h1 align="center">Hey 👋, I'm Abhishek</h1>
 <h3 align="center">An Aspiring Data Science Student💪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptabhishek8&label=Profile%20views&color=0e75b6&style=flat" alt="guptabhishek8" /> </p>
@@ -12,15 +12,15 @@
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 🔭 I’m currently working on Machine Learning Projects
+- 🔭 I’m currently working on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/guptabhishek8)
+- 🎮Hobbies: **PC games and Coding**💻
 
-- 🎮Hobbies: PC games and Coding💻
-
-- 😁 Fun Fact: Jack of all trades , Master of None !
+- 😁 Fun Fact: **Jack of all trades , Master of None !**
 
 - 📫 How to reach me: guptabhishek8@gmail.com
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/guptabhishek8)
 
 - 🕵️‍♀️connect with me on LinkedIn: [Abhishek Gupta](https://www.linkedin.com/in/abhishek-gupta-94781a178/)
 
