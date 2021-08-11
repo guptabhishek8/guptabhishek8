@@ -7,7 +7,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://img-s1.onedio.com/id-55f97356d613c108283d74eb/rev-0/w-900/h-643/f-gif/s-2399410a2e12b37cd1b5f0340364f47d32b31c91.gif" /> 
 
-
 - 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
