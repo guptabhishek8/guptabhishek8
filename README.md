@@ -1,17 +1,17 @@
 ![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png
 )
 <h1 align="center">Hey 👋, I'm Abhishek</h1>
-<h3 align="center">An Aspiring Data Science Student💪</h3>
+<h3 align="center">An Aspiring Data Engineer💪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptabhishek8&label=Profile%20views&color=0e75b6&style=flat" alt="guptabhishek8" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://img-s1.onedio.com/id-55f97356d613c108283d74eb/rev-0/w-900/h-643/f-gif/s-2399410a2e12b37cd1b5f0340364f47d32b31c91.gif" /> 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning about **Warehouses and Data transform tools**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Engineer/Science Projects**
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **some cool stuffs**
 
 - 🎮Hobbies: **PC games and Coding**💻
 
